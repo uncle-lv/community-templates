@@ -1,0 +1,17 @@
+.navbar {
+    margin-top: 0.5rem !important;
+    margin-bottom: 0.5rem !important;
+}
+
+.my-divider {
+    margin: 0 !important;
+}
+
+.logo {
+    width: 2rem !important;
+    margin-right: 1rem !important;
+}
+
+.main-container {
+    margin: 1.5rem !important;
+}
