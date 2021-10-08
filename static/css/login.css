@@ -1,0 +1,30 @@
+body {
+    background-color: #F1F2F3;
+}
+
+body>.grid {
+    height: 100%;
+}
+
+.column {
+    max-width: 350px;
+}
+
+.sign-up {
+    margin: 1rem !important;
+}
+
+.divider-font {
+    font-weight: 100 !important;
+    color: #7f8c8d !important;
+}
+
+.social-btns {
+    width: 100% !important;
+}
+
+.social-btn {
+    color: white !important;
+    font-weight: 200 !important;
+    background-color: #2F3337 !important;
+}
